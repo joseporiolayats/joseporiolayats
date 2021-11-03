@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on any project!
-- 📫 How to reach me via telegram @joseporiol
+- 📫 Reach me via telegram @joseporiol
 
 <!---
 joseporiolayats/joseporiolayats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
